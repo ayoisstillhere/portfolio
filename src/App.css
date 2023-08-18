@@ -34,7 +34,7 @@ body {
   background-color: #121212 !important;
   color: #fff !important;
   font-family: "Centra", sans-serif !important;
-  display: block;
+  /* display: block; */
 }
 
 h1,
