@@ -539,6 +539,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 100%;
 }
 
+#message-row {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 /************ Footer Css ************/
 .footer {
   padding: 0 0 50px 0;
